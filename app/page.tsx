@@ -6,13 +6,13 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
+          src="/shape.svg"
+          alt="Shape logomark"
           width={180}
           height={38}
           priority
         />
-        
+
         <ul className="font-mono list-inside list-none text-sm/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
             Hello World!
